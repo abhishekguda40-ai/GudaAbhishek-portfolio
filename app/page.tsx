@@ -174,7 +174,7 @@ export default function Home() {
     </a>
 
     <a
-      href="mailto:abhishekguda2003@gmail.com"
+      href="mailto:abhishekguda40@gmail.com"
       className="w-12 h-12 rounded-full bg-[#12172d] border border-purple-500 flex items-center justify-center hover:scale-110 transition"
     >
       ✉️
@@ -593,7 +593,7 @@ export default function Home() {
             <div className="text-5xl mb-4">📧</div>
             <h3 className="text-xl font-bold">Email</h3>
             <p className="text-gray-300 mt-3">
-              abhishekguda2003@gmail.com
+              abhishekguda40@gmail.com
             </p>
           </div>
 
@@ -653,7 +653,7 @@ export default function Home() {
           </a>
 
           <a
-            href="mailto:abhishekguda2003@gmail.com"
+            href="mailto:abhishekguda40@gmail.com"
             className="w-12 h-12 rounded-full bg-purple-600 flex items-center justify-center hover:scale-110 transition"
           >
             ✉️
